@@ -1,0 +1,7 @@
+transformers==4.35.2
+torch==2.1.0
+datasets==2.15.0
+tokenizers==0.15.0
+flask==2.2.3
+Werkzeug==2.2.3
+python-dotenv==1.0.0
