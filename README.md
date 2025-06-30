@@ -59,7 +59,7 @@ def getFluencyScore():
 ### 🧪 Example CURL Request
 
 ```bash
-curl -X POST http://localhost:5000/junbro1016/pronunciation-scoring-completeness \
+curl -X POST http://localhost:4102/junbro1016/pronunciation-scoring-completeness \
      --data-binary @sample.wav \
      -H "Content-Type: application/octet-stream"
 ```
